@@ -1,4 +1,5 @@
 @echo off
 pip install -r requirements.txt
-start builder.pyw
+python builder.pyw
 pause
+
