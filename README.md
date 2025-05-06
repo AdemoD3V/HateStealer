@@ -1,3 +1,5 @@
+<-- fake hatestealer -->
+
 <h1 align="center">HateStealer </h1> 
 <p align= "center"> <kbd> <img  src="https://imgur.com/VOXEELW.png"width="420"> </kbd><br><br>
 
