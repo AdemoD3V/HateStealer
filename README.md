@@ -3,7 +3,7 @@
 
 
 
-<p align="center"><a href="https://discord.gg/gci" target="_blank">✨ Join Discord for support and contact (Click me! ) ✨ </a>
+<p align="center"><a href="https://discord.gg/steal4life target="_blank">✨ Join Discord for support and contact (Click me! ) ✨ </a>
 
 
 
